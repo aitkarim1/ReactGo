@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(220, 214, 255);
+}
+
+header {
+  background-color: rgb(255, 231, 255);
+}
+
+.form {
+  width: 30%;
+  background-color: rgb(241, 233, 241);
+  padding: 10px 50px 30px 50px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
